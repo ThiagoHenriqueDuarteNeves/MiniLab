@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+pillow
+albumentations
+requests
+jiwer
+tqdm
